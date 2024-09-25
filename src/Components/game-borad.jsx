@@ -28,4 +28,6 @@ function GamrBoard({ onSelectSquare, board }) {
   );
 }
 
+
+
 export default GamrBoard;
